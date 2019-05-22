@@ -1,6 +1,25 @@
 # Supplementary material for the Introduction to Soergel bimodules (B. Elias, S. Makisumi, U. Thiel, G. Williamson)
 
-## Contents
+## Examples
 
-* Coxeter complex for A3, B3, and affine A2 ([pdf](https://raw.githubusercontent.com/ulthiel/soergelbook/master/coxetercomplex.pdf))
-* Example computations of Kazhdan–Lusztig bases in types A3, B3, and affine A2 ([pdf](https://raw.githubusercontent.com/ulthiel/soergelbook/master/klexamples.pdf))
+* [Coxeter complex for A3, B3, and affine A2](https://raw.githubusercontent.com/ulthiel/soergelbook/master/coxetercomplex.pdf))
+* [Example computations of Kazhdan–Lusztig bases in types A3, B3, and affine A2](https://raw.githubusercontent.com/ulthiel/soergelbook/master/klexamples.pdf))
+
+## Exercise Sheets from the MSRI Summer School 2017
+
+| # | Topic |
+|----|-------|
+|[1A](Exercises-1-1a-basic_v2.pdf), [1A+](Exercises-1-1a-supplement.pdf) | Coxeter groups |
+|[1B](Exercises-1-1b-basic_v2.pdf), [1B+](Exercises-1-1b-supplement.pdf) | KL basis    |
+|[2A](Exercises-1-2a-basic.pdf), [2A+](Exercises-1-2a-supplement.pdf) | Demazure operator, Frobenius extensions |
+| [2B](Exercises-1-2b-basic.pdf), [2B+](Exercises-1-2b-supplement.pdf) | Diagrammatics  |
+| [3A](Exercises-1-3a-basic.pdf), [3A+](Exercises-1-3a-supplement.pdf) | Diagrammatics for Soergel bimodules |
+| [3B](Exercises-1-3b-basic.pdf), [3B+](Exercises-1-3b-supplement.pdf) | Light leaves |
+| [4A](Exercises-1-4a-basic.pdf), [4A+](Exercises-1-4a-supplement.pdf) | Intersection form |
+| [4B](Exercises-1-4b-basic.pdf), [4B+](Exercises-1-4b-supplement.pdf) | Krull–Schmidt |
+| [5A](Exercises-1-5a-basic.pdf), [5A+](Exercises-1-5a-supplement.pdf) | Lefschetz linear algebra |
+| [5B](Exercises-1-5b-basic.pdf), [5B+](Exercises-1-5b-supplement.pdf) | Category $$\mathcal{O}$$ |
+| [6A](Exercises-2-1a-basic.pdf), [6A+](Exercises-2-1a-supplement.pdf) | Hodge theory |
+| [6B](Exercises-2-1b-basic.pdf), [6B+](Exercises-2-1b-supplement.pdf) | Rouquier complexes |
+| [7A](Exercises-2-3a-basic.pdf), [7A+](Exercises-2-3a-supplement.pdf) | Cells |
+| [7B](Exercises-2-3b-basic.pdf) | Full twist |
