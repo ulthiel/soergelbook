@@ -2,8 +2,8 @@
 
 ## Examples
 
-* [Coxeter complex for A3, B3, and affine A2](https://raw.githubusercontent.com/ulthiel/soergelbook/master/coxetercomplex.pdf))
-* [Example computations of Kazhdan–Lusztig bases in types A3, B3, and affine A2](https://raw.githubusercontent.com/ulthiel/soergelbook/master/klexamples.pdf))
+* [Coxeter complex for A3, B3, and affine A2](https://raw.githubusercontent.com/ulthiel/soergelbook/master/coxetercomplex.pdf)
+* [Example computations of Kazhdan–Lusztig bases in types A3, B3, and affine A2](https://raw.githubusercontent.com/ulthiel/soergelbook/master/klexamples.pdf)
 
 ## Exercise Sheets from the MSRI Summer School 2017
 
