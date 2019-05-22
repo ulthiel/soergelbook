@@ -1,4 +1,4 @@
-# Supplementary material for the Introduction to Soergel bimodules (B. Elias, S. Makisumi, U. Thiel, G. Williamson)
+# Supplementary material for the Introduction to Soergel bimodules by B. Elias, S. Makisumi, U. Thiel, G. Williamson
 
 ## Examples
 
