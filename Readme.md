@@ -1,11 +1,17 @@
 # Supplementary material for the Introduction to Soergel bimodules by B. Elias, S. Makisumi, U. Thiel, G. Williamson
 
+Here you can find supplementary material for the [Introduction to Soergel bimodules](https://www.springer.com/gp/book/9783030488253) by B. Elias, S. Makisumi, U. Thiel, G. Williamson.
+
+## Erratum
+
+Please check out our [erratum](erratum.pdf). We thank everyone for comments and corrections!
+
 ## Examples
 
 * [Coxeter complex for A3, B3, and affine A2](https://raw.githubusercontent.com/ulthiel/soergelbook/master/Examples/coxetercomplex.pdf)
 * [Example computations of Kazhdan–Lusztig bases in types A3, B3, and affine A2](https://raw.githubusercontent.com/ulthiel/soergelbook/master/Examples/klexamples.pdf)
 
-## Exercise Sheets from the MSRI Summer School 2017
+## Exercise sheets from the MSRI Summer School 2017
 
 | # | Topic |
 |----|-------|
