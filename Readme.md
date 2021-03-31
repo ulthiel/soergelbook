@@ -4,7 +4,7 @@ Here you can find supplementary material for the [Introduction to Soergel bimodu
 
 ## Erratum
 
-Please check out our [erratum](erratum.pdf). We thank everyone for comments and corrections!
+Please check out our [erratum](https://github.com/ulthiel/soergelbook/raw/master/erratum.pdf). We thank everyone for comments and corrections!
 
 ## Examples
 
